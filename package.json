@@ -1,0 +1,12 @@
+{
+  "name": "migration",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@tryghost/admin-api": "^0.5.1",
+    "cheerio": "^1.0.0-rc.3",
+    "mysql": "^2.17.1",
+    "node-html-parser": "^1.1.16"
+  }
+}
